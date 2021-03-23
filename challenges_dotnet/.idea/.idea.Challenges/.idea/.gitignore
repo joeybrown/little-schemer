@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Challenges.iml
+# Datasource local storage ignored files
+/../../../../../../../:\dev\LittleSchemer\challenges_dotnet\.idea\.idea.Challenges\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
